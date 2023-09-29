@@ -1,8 +1,6 @@
 # PHP_test_exercise
 Zadania testowe
 
-# testing_possibility
-
 ## Zadanie 1
 
 Napisz skrypt, który wyświetli:
